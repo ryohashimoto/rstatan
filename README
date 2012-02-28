@@ -1,0 +1,19 @@
+= Rstatan
+
+Author:: Ryo Hashimoto
+Copyright:: Copyright (c) 2012 Ryo Hashimoto
+License:: Same as Ruby's license
+
+A patch for adding statstics analysis methods to Ruby array class.
+
+
+== Methods
+*sum
+*prod
+*min
+*max
+*range
+*mean
+*var
+*stddev
+*correl
